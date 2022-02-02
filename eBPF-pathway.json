@@ -1,0 +1,11 @@
+{
+  "title": "eBPF",
+  "description": "Getting started with eBPF",
+  "courses": [
+    {
+      "course_id": "hello_world_python",
+      "title": "Hello World Python",
+      "description": "eBPF Hello World in Python"
+    }
+  ]
+}
