@@ -20,4 +20,4 @@ Please read the introduction to eBPF on my [blog](https://rutvora.blogspot.com/s
 ## Table of Contents
 
 - Introduction
-- \<Placeholder for future examples\>
+- _Placeholder for future examples_
